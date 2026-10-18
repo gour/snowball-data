@@ -11,6 +11,16 @@ rest are the most frequent other words (names, foreign words, new words; at
 least 20 occurrences). Markup leftovers such as colour codes were removed.
 Proper nouns, words from other languages and typos are included on purpose.
 
+384 further words were added so that the test vocabulary exercises as many of
+the stemmer's rule cases as possible.  For each case that the list above does
+not reach, the most frequent word reaching it was taken from the whole dump
+(all articles, not only the sample), preferring words known to the hunspell
+dictionary: 301 of them occur at least twice in the dump and 41 only once (a
+few of these are typos, kept on purpose).  The other 42 are words of the dump
+written without their diacritics (c-caron, c-acute, d-stroke, s-caron and
+z-caron replaced by c, c, d, s and z), because the stemmer is also meant for
+text from which an engine has stripped them.
+
 output.txt was generated from voc.txt by running it through the stemmer using the command:
 
 stemwords -l croatian -c UTF_8 -i croatian/voc.txt -o croatian/output.txt

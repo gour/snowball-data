@@ -1,4 +1,5 @@
 aa
+aaliy
 ab
 abarth
 abb
@@ -100,6 +101,7 @@ ag
 agath
 agda
 ag
+agent
 agencij
 agencij
 agencij
@@ -107,6 +109,7 @@ agencij
 agent
 agent
 agent
+agiln
 agm
 agnez
 ag
@@ -305,6 +308,7 @@ amazonas
 amazon
 ambicij
 ambiciozn
+ambiciozn
 ambijent
 americ
 amerik
@@ -357,6 +361,7 @@ anatomij
 anatomij
 anatomij
 anatomsk
+anat
 and
 and
 anders
@@ -374,6 +379,7 @@ andromed
 an
 aneksij
 anektir
+anestetik
 ang
 angažir
 angažiran
@@ -431,6 +437,7 @@ anter
 antestor
 ant
 antibiotic
+antibiotik
 antibiotik
 antic
 antifašističk
@@ -498,6 +505,7 @@ apsolutn
 apsolutn
 apsolutn
 apsolutn
+apsolvent
 apsorbir
 apsorbiraj
 apsorpcij
@@ -684,6 +692,7 @@ astronomsk
 astronomsk
 astronomsk
 astronomsk
+astron
 at
 at
 ateizm
@@ -825,6 +834,7 @@ automobi
 automobilsk
 automobilsk
 automobi
+autonom
 autonomij
 autonomij
 autonomij
@@ -889,6 +899,7 @@ azijsk
 azijsk
 azij
 azi
+azilant
 aziz
 azkaban
 aćimović
@@ -906,9 +917,11 @@ babić
 bac
 bacaj
 baca
+baca
 bacanj
 bacanj
 bacanj
+baca
 bacač
 bacač
 bach
@@ -918,6 +931,7 @@ bac
 bac
 bac
 bac
+baci
 badnjak
 badrić
 ba
@@ -1008,6 +1022,7 @@ banovin
 bansk
 bansk
 bansk
+banta
 bant
 ban
 baptist
@@ -1024,6 +1039,7 @@ barb
 barbar
 barbar
 barbier
+barbitur
 barcelon
 barcelon
 barcelon
@@ -1059,6 +1075,8 @@ bas
 basel
 basist
 basist
+bask
+bask
 bask
 bask
 bask
@@ -1124,6 +1142,7 @@ baštin
 baštin
 baštin
 bd
+bdi
 bdp
 bdsm
 be
@@ -1133,6 +1152,7 @@ beatles
 beatric
 beb
 beb
+bec
 bedeković
 bedekovčin
 bedekovčin
@@ -1246,7 +1266,11 @@ bih
 bihać
 bihać
 bihać
+bijah
 bijahu
+bijase
+bijasmo
+bijaste
 bijaše
 bijeg
 bijeg
@@ -1397,6 +1421,7 @@ bitn
 biv
 biva
 bivalvi
+bivs
 bivš
 bivš
 bivšeg
@@ -1418,6 +1443,9 @@ bizantsk
 bić
 bić
 bić
+biše
+bjeh
+bjehu
 bjelančevin
 bjelančevin
 bjelic
@@ -1431,6 +1459,10 @@ bjelovar
 bjelovarsk
 bjelovarsk
 bjelovar
+bjese
+bjesmo
+bjeste
+bješe
 bježa
 bježa
 bjež
@@ -1451,6 +1483,7 @@ blag
 blagoslov
 blagoslov
 blagoslovi
+blagoslovi
 blagoslovljen
 blanc
 blanc
@@ -1467,6 +1500,8 @@ blažen
 blaženk
 blažević
 blijed
+blisk
+blisk
 blisk
 blisk
 blisk
@@ -1501,6 +1536,7 @@ blokiraj
 blokiraj
 blokiran
 blokiran
+blokir
 blokir
 blokir
 blok
@@ -1883,6 +1919,7 @@ brežic
 brežuljak
 brežuljc
 brežuljk
+brežuljkast
 brežuljk
 brien
 brig
@@ -1896,6 +1933,7 @@ brig
 brijeg
 brijeg
 brijeg
+brin
 brin
 brin
 brin
@@ -2030,8 +2068,13 @@ bud
 budak
 bud
 budem
+budemo
+budes
+budete
+budeš
 bud
 budi
+budimo
 budimpešt
 budimpešt
 budimpešt
@@ -2117,6 +2160,7 @@ bučar
 buđenj
 bušić
 caesalpinioidea
+caj
 cambodg
 cambridge
 camp
@@ -2189,6 +2233,7 @@ cellspacing
 celuloz
 celuloz
 cement
+cemo
 centr
 centr
 centaur
@@ -2222,6 +2267,7 @@ cerr
 cert
 certifikacij
 certifikat
+certifikat
 cervus
 cest
 cest
@@ -2236,6 +2282,7 @@ cestovn
 cestovn
 cest
 cet
+ceteris
 cetin
 cetinj
 cetinj
@@ -2285,6 +2332,7 @@ cijelog
 cijelog
 cijel
 cijel
+cijel
 cijelost
 cijel
 cijen
@@ -2331,6 +2379,7 @@ citat
 cita
 citir
 citiraj
+citir
 ciudad
 civi
 civi
@@ -2505,11 +2554,13 @@ crven
 csi
 cska
 ct
+cuj
 cup
 curculionida
 curculionoide
 curtiz
 cuva
+cuvs
 cv
 cva
 cva
@@ -2537,13 +2588,17 @@ cvjetov
 cz
 da
 dad
+dadoh
 daf
 daf
 dagmar
 dah
 daj
 daj
+dajm
+dajt
 daj
+dajuc
 dajuć
 dakak
 dakl
@@ -2701,6 +2756,7 @@ davn
 davor
 davor
 davorin
+davs
 davš
 daytonsk
 db
@@ -2788,6 +2844,7 @@ demokracij
 demokracij
 demokrat
 demokra
+demokratsk
 demokratsk
 demokratsk
 demokratsk
@@ -2901,6 +2958,7 @@ dijagnosticiran
 dijagnoz
 dijagnoz
 dijagnoz
+dijagonal
 dijagra
 dijalekt
 dijalekt
@@ -2941,6 +2999,7 @@ diktator
 diktatur
 diktatur
 diktatur
+dilem
 dilj
 dim
 dim
@@ -3943,6 +4002,7 @@ duet
 duet
 dug
 dug
+dugack
 dugačk
 dugačk
 dugačk
@@ -4011,6 +4071,7 @@ duk
 dulić
 dulj
 dulj
+dulji
 duljin
 duljin
 duljin
@@ -4080,6 +4141,7 @@ dvoboj
 dvodomn
 dvogodišnj
 dvogodišnj
+dvojc
 dvojc
 dvoj
 dvojic
@@ -4462,6 +4524,7 @@ epp
 epsk
 er
 eragon
+era
 erceg
 er
 erectus
@@ -4496,10 +4559,12 @@ esej
 esejist
 esej
 eskadri
+esk
 esperant
 esseker
 est
 ester
+estetik
 estetik
 estetsk
 eston
@@ -4691,6 +4756,7 @@ fernandes
 ferojsk
 ferrari
 ferrari
+ferrari
 fes
 festiva
 festiva
@@ -4724,6 +4790,7 @@ fiktivn
 filament
 filharmon
 filharmonij
+filijal
 filip
 filip
 filipin
@@ -4870,6 +4937,7 @@ folklor
 fond
 fond
 fond
+fon
 fonološk
 font
 fontan
@@ -4950,6 +5018,7 @@ foton
 fotonaponsk
 foton
 fo
+four
 foč
 foč
 fr
@@ -5178,7 +5247,9 @@ genetičk
 genetsk
 genetsk
 gen
+gen
 genitiv
+genj
 genocid
 genocid
 genocid
@@ -5243,6 +5314,7 @@ getcurrentfram
 getparent
 gettarget
 giacom
+giac
 giants
 gib
 giba
@@ -5286,6 +5358,7 @@ glagoljic
 glamoč
 gla
 glas
+glasaj
 glasa
 glasanj
 glasač
@@ -5313,6 +5386,7 @@ glasov
 glasovir
 glasovit
 glas
+glatk
 glatk
 glatk
 glatk
@@ -5469,6 +5543,7 @@ godišnj
 godišnj
 godišnj
 godišnj
+godišnj
 goeth
 gogh
 gogh
@@ -5577,12 +5652,14 @@ gost
 gost
 gostij
 gost
+gostinjc
 gostova
 gostova
 gostovanj
 gostovanj
 gostovanj
 gostova
+gostuj
 gostuj
 gostuj
 gostujuć
@@ -5672,6 +5749,7 @@ grad
 gradonačelnik
 gradonačelnik
 grad
+gradova
 grad
 grad
 gradov
@@ -5829,6 +5907,7 @@ grijeh
 grijeh
 grijeh
 grimald
+grima
 grip
 grič
 grk
@@ -5868,6 +5947,7 @@ grofov
 gr
 gros
 gross
+groteskn
 grozdov
 groznic
 groznic
@@ -5934,10 +6014,14 @@ guillaum
 guizho
 gum
 gum
+gumast
 gumb
 gum
 gundulić
 gunn
+gur
+gur
+gur
 gur
 gusar
 gusar
@@ -6054,6 +6138,7 @@ hektar
 helen
 helij
 helij
+hel
 helikopter
 helikopter
 helikopter
@@ -6223,6 +6308,7 @@ homoseksualnost
 homotipsk
 honanj
 hond
+hondur
 honorij
 ho
 hop
@@ -6313,6 +6399,7 @@ hss
 hsu
 hsz
 hti
+htjedosm
 htjel
 htjel
 htv
@@ -6377,6 +6464,8 @@ ibs
 ic
 ic
 ica
+ici
+ici
 id
 id
 idea
@@ -6441,6 +6530,7 @@ ignorir
 igor
 igor
 igr
+igrack
 igraj
 igra
 igra
@@ -6534,6 +6624,9 @@ im
 im
 im
 im
+im
+im
+im
 imanj
 imanj
 imanj
@@ -6585,6 +6678,7 @@ implementacij
 implementacij
 implicir
 impresioniran
+impresivn
 improvizacij
 improvizacij
 impuls
@@ -6646,6 +6740,7 @@ indonezij
 indonezij
 indonezijsk
 indonezijsk
+indosant
 industrij
 industrijalizacij
 industrij
@@ -6913,6 +7008,8 @@ iskrcavanj
 iskrcavanj
 iskren
 iskusn
+iskusi
+iskusi
 iskusn
 iskustv
 iskustv
@@ -6949,6 +7046,7 @@ ispaljivanj
 ispaljiva
 ispa
 isparavanj
+ispa
 ispiranj
 ispisan
 ispi
@@ -6961,6 +7059,7 @@ ispitivanj
 ispituj
 ispituj
 isplat
+isplativ
 ispod
 isporuk
 isporuk
@@ -7006,6 +7105,7 @@ istaknut
 istaknut
 istakn
 istaknut
+istakn
 istakn
 istanbul
 istanbul
@@ -7107,6 +7207,7 @@ istr
 istr
 istri
 istr
+istrč
 ist
 istup
 isus
@@ -7310,6 +7411,7 @@ izdavačk
 izdiž
 izdrža
 izdrža
+izdržljiv
 izdržljivost
 izdržljivost
 izdužen
@@ -7362,6 +7464,7 @@ izgrađen
 izgrađen
 izgub
 izgub
+izgubi
 izgubi
 izgubi
 izgubi
@@ -7721,6 +7824,8 @@ jadransk
 jadransk
 jadransk
 jadran
+jaganjc
+jaganjc
 jagod
 jagod
 jahač
@@ -7759,6 +7864,7 @@ jakovljev
 jak
 jakš
 jakšić
+jal
 jam
 jamajk
 jam
@@ -7813,8 +7919,10 @@ jasn
 jasn
 jasn
 jasn
+jast
 jastrebarsk
 jastrebarsk
+jas
 jat
 jat
 jav
@@ -7850,6 +7958,7 @@ jač
 jačanj
 jačanj
 jačanj
+jača
 jač
 jač
 jač
@@ -7991,11 +8100,13 @@ jeruzalem
 jeruzalem
 jeruzalemsk
 jeruzalem
+jesam
 jesen
 jesen
 jesenic
 jesensk
 jesi
+jesmo
 jest
 jeste
 jest
@@ -8226,6 +8337,7 @@ ka
 kair
 kair
 kaj
+kajk
 kajkavsk
 kakanj
 kakav
@@ -8340,6 +8452,8 @@ kandidatur
 kandidir
 kan
 kang
+kanj
+kanj
 kanjon
 kanjon
 kanon
@@ -8420,6 +8534,7 @@ karavan
 karačić
 karađorđević
 karađorđević
+kara
 karbid
 karbid
 karbonat
@@ -8440,6 +8555,7 @@ karijer
 karik
 karikatur
 karikaturist
+karir
 karić
 karl
 karl
@@ -8471,6 +8587,8 @@ kart
 karun
 kasij
 kasin
+kasn
+kasn
 kasn
 kasn
 kasn
@@ -8643,6 +8761,7 @@ keres
 kerrang
 kf
 kg
+khajur
 khl
 ki
 kiernan
@@ -8651,11 +8770,13 @@ kijev
 kijevsk
 kijev
 kikind
+kikirik
 kilhefner
 kilogram
 kilometar
 kilometr
 kilometr
+kilova
 kim
 kim
 kin
@@ -8906,6 +9027,7 @@ koautor
 kobalt
 kobr
 kock
+kocka
 kock
 kod
 kod
@@ -9028,6 +9150,7 @@ komentar
 komentar
 komentator
 komentator
+komentir
 komentir
 komentir
 komentir
@@ -9368,6 +9491,7 @@ koraljn
 kordić
 kor
 korej
+korejc
 korej
 korej
 korejsk
@@ -9462,6 +9586,8 @@ kositar
 kosmos
 kos
 kos
+kos
+kos
 kosov
 kosov
 kosovsk
@@ -9526,6 +9652,7 @@ kočnic
 kočnic
 koš
 koš
+košara
 košarc
 košark
 košarkaš
@@ -9669,7 +9796,10 @@ kreativnost
 kreativnost
 kreator
 kred
+kredi
 kreir
+kren
+kren
 kren
 kren
 kren
@@ -9808,6 +9938,7 @@ kr
 krom
 kromos
 kromosom
+kromos
 kromos
 kronic
 kronik
@@ -10013,6 +10144,8 @@ kultur
 kultur
 kul
 kum
+kumpanj
+kumpanj
 kun
 kundak
 kun
@@ -10044,6 +10177,7 @@ kupol
 kupov
 kupres
 kup
+kupuj
 kupuj
 kupuj
 kuran
@@ -10166,11 +10300,13 @@ ladislav
 ladislav
 lagan
 lagan
+laganij
 lagan
 lagun
 lagun
 lagun
 lagun
+laj
 lak
 lak
 lak
@@ -10363,6 +10499,7 @@ leđ
 leđ
 leđn
 leđn
+leši
 lešić
 ležaj
 lež
@@ -10639,6 +10776,7 @@ ljubičast
 ljubičast
 ljubičast
 ljubičast
+ljubičast
 ljubičić
 ljubiš
 ljubljan
@@ -10782,7 +10920,17 @@ loš
 loš
 loš
 loš
+loš
+loš
+loš
+loš
+loš
+loš
+loš
+loš
+loš
 lošinj
+loš
 loš
 lož
 lož
@@ -10885,6 +11033,7 @@ magistrir
 magistrir
 magičn
 magičn
+magjarolaca
 magl
 maglic
 maglic
@@ -11077,6 +11226,7 @@ marij
 marij
 marijin
 marijin
+marij
 marij
 marij
 marin
@@ -11363,6 +11513,7 @@ meksičk
 meksičk
 meksičk
 meksičk
+mekušc
 melbourne
 melf
 melit
@@ -11498,6 +11649,8 @@ međunarodn
 međunarodn
 međunarodn
 međuopćinsk
+međupostaj
+međupostaj
 međuratn
 međusobn
 međusobn
@@ -11818,6 +11971,9 @@ mješovit
 mješovit
 mješovit
 mješovit
+mješovit
+mješovit
+mješovit
 mještan
 mještan
 mjuzikl
@@ -11885,6 +12041,7 @@ mls
 mm
 mma
 mmf
+mni
 mnk
 mnm
 mnog
@@ -11945,6 +12102,7 @@ modrič
 modul
 modul
 modul
+mog
 mog
 mog
 mog
@@ -12071,9 +12229,11 @@ mora
 moram
 moramo
 mora
+moras
 morate
 mora
 moravsk
+moraš
 mor
 morea
 mor
@@ -12093,6 +12253,7 @@ mornaric
 mornaričk
 mornaričk
 mornaričk
+morsk
 morsk
 morsk
 morsk
@@ -12150,6 +12311,9 @@ mozaik
 mozak
 mozambik
 moze
+mozemo
+mozes
+mozete
 mozg
 mozg
 moć
@@ -12288,6 +12452,7 @@ muškarc
 muškarc
 muškarc
 muškarc
+muška
 mušk
 mušk
 mušk
@@ -12352,6 +12517,7 @@ nacističk
 nacizm
 nacrt
 nacrt
+nacrta
 nacrt
 nacrt
 nacrt
@@ -12471,6 +12637,7 @@ najavljen
 najavljen
 najavljuj
 najavn
+najblisk
 najbliž
 najbliž
 najbliž
@@ -12499,6 +12666,7 @@ najduž
 najgor
 najgor
 najgušć
+najhvaljenj
 najistaknutij
 najistaknutij
 najjač
@@ -12516,6 +12684,7 @@ najljepš
 najljepš
 najljepš
 najljepši
+najluckast
 najmanj
 najmanj
 najmanj
@@ -12535,6 +12704,12 @@ najnov
 najnov
 najnov
 najnov
+najnov
+najnov
+najnov
+najnov
+najnov
+najosjetljiv
 najpopularn
 najpopularn
 najpopularn
@@ -12548,6 +12723,7 @@ najprij
 najprodavan
 najprodavan
 najprodavan
+najprodavanj
 najranij
 najranij
 najranij
@@ -12564,9 +12740,11 @@ najstarij
 najstarij
 najstarij
 najstarij
+najtalentiranj
 najtež
 najtež
 najteži
+najtješnj
 najuspješn
 najuspješn
 najuspješn
@@ -12608,6 +12786,7 @@ najznačajn
 najznačajn
 najznačajn
 najznačajn
+najzrel
 najčešć
 najčešć
 najčešć
@@ -12693,6 +12872,7 @@ namjesnik
 namjesnik
 namješta
 namještaj
+namješta
 nani
 nanos
 nanov
@@ -12926,6 +13106,7 @@ naseljenost
 naseljenost
 naselj
 naselj
+nasiln
 nasilj
 nasilj
 nasilj
@@ -13177,6 +13358,7 @@ naziva
 naziva
 naziva
 naziva
+naziva
 nazivan
 nazivan
 nazivan
@@ -13375,6 +13557,7 @@ nema
 nema
 nemanj
 nematerijaln
+nema
 nemir
 nemir
 nemir
@@ -13591,6 +13774,7 @@ ng
 ngat
 ngc
 ni
+ni
 nicejsk
 nic
 nigdj
@@ -13704,6 +13888,8 @@ nizozemsk
 nizozemsk
 niz
 nizvodn
+niči
+niči
 niš
 niš
 niš
@@ -13723,6 +13909,9 @@ niž
 nj
 nje
 njeg
+njegov
+njegov
+njegov
 njegov
 njegov
 njegov
@@ -13816,6 +14005,7 @@ nog
 nog
 nogomet
 nogomet
+nogometaš
 nogometaš
 nogometaš
 nogometaš
@@ -13937,6 +14127,7 @@ novij
 novij
 novij
 novij
+novij
 novi
 novin
 novin
@@ -13955,6 +14146,7 @@ novinsk
 novinsk
 novj
 nov
+novodjeviči
 novoformiran
 nov
 nov
@@ -14604,12 +14796,14 @@ odras
 odrasli
 odrastanj
 odrasta
+odras
 odraz
 odrazi
 odražav
 odražava
 odred
 odred
+odredb
 odredb
 odredb
 odredb
@@ -14793,6 +14987,10 @@ ogulin
 oh
 oi
 oj
+ojaca
+ojača
+ojača
+ojača
 ojača
 ojača
 ojača
@@ -14820,6 +15018,7 @@ okolin
 okolin
 okolin
 okolin
+okoliš
 okoliš
 okoliš
 okoliš
@@ -15211,6 +15410,7 @@ općin
 opć
 opć
 opštin
+oranista
 oranj
 ora
 oratorij
@@ -15272,6 +15472,8 @@ organiziranj
 organiziranj
 organiziran
 organiziran
+organizir
+organizir
 organizir
 organizir
 organizm
@@ -15338,6 +15540,7 @@ oružj
 oružj
 oružj
 oružj
+orvosegyet
 os
 os
 osa
@@ -15350,6 +15553,8 @@ oscilacij
 oscilacij
 osek
 os
+osigur
+osigur
 osigur
 osigur
 osigur
@@ -15571,6 +15776,8 @@ ostavk
 ostavlj
 ostavlja
 ostavlja
+ostavlja
+osta
 ostavštin
 ostojić
 ostvaren
@@ -15632,11 +15839,14 @@ osvoji
 osvoji
 osvoji
 osvoji
+osvoji
 osvrt
 osvrt
 otac
 otad
 otad
+ota
+otap
 otap
 otec
 otel
@@ -15657,6 +15867,7 @@ otkazan
 otklon
 otkomentir
 otkrij
+otkri
 otkrij
 otkri
 otkri
@@ -15738,6 +15949,7 @@ otpušten
 otrov
 otrov
 otrovan
+otrova
 otrovn
 otrovn
 otrovn
@@ -15855,6 +16067,10 @@ označen
 označen
 označen
 označen
+označ
+označ
+označ
+označ
 označ
 označ
 označ
@@ -16155,6 +16371,7 @@ passeriformes
 passeroide
 passiflor
 passifloracea
+passi
 past
 past
 pastir
@@ -16216,6 +16433,7 @@ paš
 pašić
 pašnjak
 pažljiv
+pažljiv
 pažnj
 pažnj
 pažnj
@@ -16244,6 +16462,7 @@ pekarsk
 peking
 peking
 pelister
+pelješc
 pelud
 pend
 penelop
@@ -16255,6 +16474,7 @@ penka
 pepel
 pepe
 per
+peraj
 peraj
 peraj
 perast
@@ -16467,6 +16687,7 @@ pistons
 pit
 pita
 pita
+pita
 pitanj
 pitanj
 pitanj
@@ -16490,6 +16711,7 @@ pištolj
 piš
 pišuć
 pjanić
+pjec
 pjeg
 pjer
 pjesm
@@ -16511,6 +16733,8 @@ pjesništv
 pjesništv
 pjesništv
 pjev
+pjeva
+pjeva
 pjeva
 pjeva
 pjeva
@@ -16669,8 +16893,10 @@ plaž
 plaž
 plaž
 plaž
+plebejc
 pleistocen
 plem
+plemen
 plemen
 plemen
 plemeni
@@ -16703,8 +16929,10 @@ plesn
 ples
 plesov
 ples
+plet
 pleter
 pleternic
+plet
 pleš
 pleš
 plijen
@@ -16738,6 +16966,7 @@ pljačka
 pljačk
 pljačk
 pljeseck
+pljusk
 plod
 plod
 plodan
@@ -16786,6 +17015,7 @@ ploč
 ploč
 plus
 plut
+pluta
 plutarh
 pluton
 pluton
@@ -16802,6 +17032,7 @@ poales
 pobačaj
 pobačaj
 pobijed
+pobijedi
 pobijedi
 pobijedi
 pobijedi
@@ -17144,6 +17375,7 @@ pojav
 pojav
 pojača
 pojača
+pojača
 pojačan
 pojačanj
 pojačanj
@@ -17266,6 +17498,7 @@ pokrovitelj
 pokroviteljstv
 pokus
 pokus
+pokusava
 pokus
 pokus
 pokus
@@ -17442,6 +17675,7 @@ poluzavršnic
 poluzavršnic
 poluzavršnic
 poluči
+pomaga
 pomaga
 pomaga
 pomaga
@@ -17809,6 +18043,7 @@ posredstv
 posrijed
 post
 post
+posta
 postaj
 postaja
 postaja
@@ -17857,6 +18092,7 @@ postavljen
 postavljen
 postavljen
 postav
+posta
 postav
 posta
 postcondition
@@ -17906,6 +18142,7 @@ postojeć
 postoj
 postolj
 postolj
+postotk
 postotk
 postotk
 postrojb
@@ -17983,6 +18220,7 @@ pothva
 pothvat
 poticaj
 potica
+poticn
 poticanj
 poticanj
 potica
@@ -17997,6 +18235,7 @@ potič
 potjer
 potječ
 potječ
+potkova
 potkraj
 potoc
 potok
@@ -18084,7 +18323,12 @@ potres
 potres
 potres
 potres
+potrosi
 potrošač
+potroši
+potroši
+potroši
+potroši
 potroši
 potrošnj
 potrošnj
@@ -18281,7 +18525,13 @@ pozna
 poznat
 poznatij
 poznatij
+poznat
+poznat
+poznat
+poznat
 poznatij
+poznat
+poznat
 poznat
 poznat
 poznat
@@ -18316,6 +18566,7 @@ počasn
 počasn
 počast
 počast
+počas
 počec
 počec
 počel
@@ -18346,7 +18597,9 @@ počini
 počini
 počini
 počini
+počini
 počinitelj
+počinj
 počinj
 počinjen
 počinjen
@@ -18472,8 +18725,10 @@ pravn
 prav
 pravocrtn
 prav
+prav
 pravokutn
 pravokutn
+prav
 prav
 pravopis
 pravopis
@@ -18524,6 +18779,8 @@ prebacuj
 prebačen
 prebačen
 prebačen
+prebir
+prebir
 prebivališt
 prec
 prec
@@ -18904,6 +19161,7 @@ pretraživanj
 pretrpi
 pretrpjel
 pretrpjel
+pret
 pretvar
 pretvaraj
 pretvara
@@ -19034,6 +19292,7 @@ prihvati
 prihvati
 prihvatit
 prihvatljiv
+prihvatljiv
 prihvać
 prihvaćaj
 prihvaćanj
@@ -19094,6 +19353,7 @@ prijelazn
 prijelazn
 prijelazn
 prijelaz
+prijel
 pri
 prijenos
 prijenos
@@ -19402,6 +19662,7 @@ prispodob
 prista
 prista
 prista
+prista
 pristalic
 pristalic
 pristanak
@@ -19558,6 +19819,7 @@ procijeni
 procijenjen
 procijenjen
 procijenjen
+procita
 procjen
 procjen
 procjen
@@ -19758,6 +20020,7 @@ proljeć
 proljeć
 promakn
 promatr
+promatra
 promatraj
 promatra
 promatranj
@@ -19873,6 +20136,7 @@ prorok
 prorok
 proročanstv
 proročanstv
+prost
 prosinc
 prosinc
 prosinc
@@ -20083,6 +20347,7 @@ proširi
 proširi
 proširi
 proširuj
+prošir
 prošl
 prošl
 prošl
@@ -20110,6 +20375,7 @@ prstij
 prst
 prug
 prug
+prugast
 prug
 prug
 prug
@@ -20315,6 +20581,7 @@ put
 putuj
 putuj
 putuj
+puxaca
 puč
 puč
 pučanstv
@@ -20449,6 +20716,7 @@ radoš
 rad
 raf
 rafael
+rafa
 ragb
 rag
 ragus
@@ -20468,6 +20736,7 @@ rajon
 rajon
 rak
 rak
+raket
 raket
 raket
 raketn
@@ -20527,6 +20796,7 @@ raskrižj
 raskrižj
 ras
 raslinj
+raslinj
 ras
 rasn
 rasn
@@ -20583,9 +20853,11 @@ raspušten
 raspušten
 rast
 rast
+rastaj
 rasta
 rasta
 rast
+ras
 rast
 rast
 rast
@@ -20643,6 +20915,7 @@ ravnin
 ravnin
 ravnin
 ravn
+ravnodusn
 ravn
 ravn
 ravnomjern
@@ -20755,6 +21028,9 @@ razn
 razn
 razn
 razn
+raznolik
+raznolik
+raznolik
 raznolik
 raznolik
 raznolik
@@ -20934,6 +21210,7 @@ redovit
 redovit
 redovit
 redovit
+redovit
 redovn
 redovn
 redovn
@@ -21013,6 +21290,7 @@ reis
 reizdanj
 rejting
 rek
+reka
 reka
 reka
 rek
@@ -21136,6 +21414,7 @@ resurs
 resurs
 ret
 retva
+reverta
 revid
 rev
 rev
@@ -21697,6 +21976,7 @@ sakupljanj
 sakupljač
 sal
 sal
+sal
 salis
 salishan
 salman
@@ -21804,6 +22084,7 @@ sas
 sask
 sask
 sask
+sasm
 sasta
 sasta
 sasta
@@ -21940,6 +22221,7 @@ sačinjava
 sačinjava
 sačuva
 sačuva
+sačuva
 sačuvan
 sačuvan
 sačuvan
@@ -22074,6 +22356,7 @@ senator
 senat
 senega
 senega
+seniln
 senior
 senior
 senior
@@ -22168,6 +22451,7 @@ shs
 shu
 shuang
 shu
+shvaca
 shva
 shvati
 shvati
@@ -22217,6 +22501,7 @@ si
 si
 silicij
 silicij
+silici
 siln
 si
 silovanj
@@ -22262,6 +22547,9 @@ sin
 sinag
 sinagog
 sindikat
+sindikat
+sindikat
+sindikat
 sindr
 sindrom
 sin
@@ -22301,6 +22589,7 @@ si
 siouan
 sir
 sir
+sir
 siren
 siren
 sirij
@@ -22312,6 +22601,8 @@ sirijsk
 sirijsk
 sirij
 sirin
+sirom
+siromašn
 siromašn
 siromašn
 siromašn
@@ -22322,6 +22613,7 @@ siromašn
 siromaštv
 siromaštv
 siromaštv
+sirov
 sirov
 sirov
 sirov
@@ -22735,6 +23027,7 @@ sljedeć
 sljedeć
 sljedeć
 sljedeć
+sljedeć
 sljem
 slo
 slobod
@@ -22891,6 +23184,7 @@ smatra
 smatra
 smatra
 smatra
+smatra
 smatram
 smatran
 smatran
@@ -23023,6 +23317,7 @@ snimljen
 snimljen
 snimljen
 snimljen
+sni
 snježan
 snježn
 snl
@@ -23264,6 +23559,7 @@ spomenik
 spomenik
 spomenik
 spomenik
+spomen
 spomen
 spomen
 spomen
@@ -23648,6 +23944,7 @@ stank
 stanković
 stank
 stanov
+stanova
 stanovanj
 stanova
 stanovnic
@@ -23744,6 +24041,7 @@ stavov
 stavov
 stavov
 stavov
+sta
 staz
 staz
 staz
@@ -23751,6 +24049,7 @@ staz
 staz
 staz
 ste
+steck
 stefan
 stefan
 stefanović
@@ -23768,6 +24067,7 @@ stepinc
 stepinc
 stepsk
 stere
+steriln
 stevan
 stev
 steve
@@ -24295,6 +24595,7 @@ suprug
 suprug
 suprug
 supruz
+suptiln
 suptropsk
 suptropsk
 sur
@@ -24423,6 +24724,7 @@ svak
 svak
 svak
 svak
+svak
 svatk
 svađ
 svađ
@@ -24532,6 +24834,7 @@ svinj
 svinj
 svir
 sviraj
+svir
 svir
 svir
 svir
@@ -24668,6 +24971,7 @@ tadašnj
 tadašnj
 tadašnj
 tadašnj
+tadašnj
 tadić
 tadžikistan
 tagargs
@@ -24752,6 +25056,9 @@ talož
 tam
 taman
 tamar
+tambur
+tambur
+tambur
 tam
 tamjan
 tamn
@@ -24790,6 +25097,7 @@ tarask
 tardis
 tartagli
 taschen
+tasmanij
 tat
 tatar
 tat
@@ -24841,6 +25149,8 @@ tehnološk
 tehnološk
 tehnološk
 tehnološk
+tek
+tek
 tek
 tekl
 teksa
@@ -25311,6 +25621,7 @@ ton
 tonk
 ton
 ton
+ton
 tonsk
 ton
 tonumber
@@ -25467,6 +25778,7 @@ transrodn
 transrodn
 transrodn
 transrodn
+transuranij
 tranzicij
 tranzistor
 tranzistor
@@ -25510,9 +25822,13 @@ treba
 treba
 treba
 treba
+trebam
 trebamo
 treba
+trebas
+trebate
 treba
+trebaš
 trebinj
 trebinj
 trebinjsk
@@ -25525,6 +25841,7 @@ trener
 trener
 trener
 trenersk
+trening
 trening
 trening
 trening
@@ -25544,6 +25861,7 @@ trenutačn
 trenutk
 trenutk
 trenutk
+trenutk
 trenutn
 trenutnagodin
 trenutn
@@ -25555,6 +25873,7 @@ tretir
 tretiraj
 tretman
 tretman
+treć
 treć
 treć
 treć
@@ -25675,6 +25994,12 @@ trošak
 troš
 trošenj
 troš
+troši
+troši
+troši
+troši
+troši
+troši
 trošk
 trošk
 trošk
@@ -25715,12 +26040,15 @@ tu
 tuberkuloz
 tuberkuloz
 tuc
+tuc
 tug
+tumac
 tumač
 tumač
 tumačenj
 tumačenj
 tumačenj
+tumač
 tumač
 tumač
 tumač
@@ -25747,6 +26075,7 @@ turbin
 turb
 turc
 turc
+turi
 turist
 turist
 turist
@@ -25889,6 +26218,7 @@ ubojstv
 ubojstv
 ubojstv
 ubraj
+ubraja
 ubraja
 ubrzanj
 ubrzanj
@@ -26227,6 +26557,7 @@ uloži
 uloži
 ulrich
 ultr
+ultraljubičast
 um
 um
 umag
@@ -26343,6 +26674,7 @@ unos
 unos
 unos
 unprofor
+un
 unuk
 unuk
 unutar
@@ -26428,6 +26760,7 @@ upotrebljava
 upotrebljava
 upotreb
 upotreb
+upotrijeb
 upotrijebi
 upotrijebi
 upozn
@@ -26547,6 +26880,7 @@ uređiva
 uređiva
 uređuj
 uređuj
+uređuj
 urin
 urin
 urot
@@ -26658,6 +26992,7 @@ usporedb
 usporedb
 usporedi
 usporedi
+usporedi
 usporedn
 uspored
 uspoređuj
@@ -26748,6 +27083,7 @@ usvojen
 usvoji
 usvoji
 usvoji
+uta
 utakmic
 utakmic
 utakmic
@@ -26992,6 +27328,13 @@ učinkovit
 učinkovit
 učinkovit
 učinkovit
+učinkovit
+učinkovit
+učinkovit
+učinkovit
+učinkovit
+učinkovit
+učinkovit
 učinkovitost
 učinkovitost
 učinkovit
@@ -27122,6 +27465,7 @@ varoš
 varteks
 varšav
 varšav
+varšav
 varšavsk
 vas
 vas
@@ -27202,12 +27546,14 @@ veleposlanik
 veleposlanstv
 veleposlanstv
 veleposlanstv
+velesl
 veleučilišt
 velež
 vel
 velik
 velik
 velikan
+velikaš
 velikaš
 velikaš
 velikaš
@@ -27398,6 +27744,7 @@ vijek
 vijenc
 vijenc
 vijenc
+vijern
 vijest
 vijest
 vijest
@@ -27493,6 +27840,7 @@ visin
 visin
 visin
 visin
+visk
 visok
 visok
 visok
@@ -27879,7 +28227,9 @@ voz
 vozil
 vozil
 vozil
+vozil
 vozi
+vozil
 vozil
 vozi
 vozi
@@ -27904,6 +28254,7 @@ vožnj
 vožnj
 vožnj
 vožnj
+vraca
 vran
 vranjic
 vranov
@@ -27923,6 +28274,7 @@ vrati
 vrat
 vrati
 vratit
+vrat
 vrat
 vrat
 vrat
@@ -28073,9 +28425,11 @@ vučetić
 vučinić
 vučić
 vučković
+waikat
 wc
 web
 web
+wik
 windows
 windows
 word
@@ -28269,6 +28623,8 @@ zaklad
 zaklad
 zakletv
 zaključak
+zaključk
+zaključk
 zaključen
 zaključen
 zaključi
@@ -28318,6 +28674,7 @@ zaljubi
 zaljubljen
 zaljubljen
 zaljubljuj
+zalog
 zama
 zama
 zambij
@@ -28325,6 +28682,7 @@ zametk
 zametk
 zametk
 zamijen
+zamijeni
 zamijeni
 zamijeni
 zamijeni
@@ -28369,9 +28727,11 @@ zanimljiv
 zanimljiv
 zanimljiv
 zanimljiv
+zanimljiv
 zanimljivost
 za
 zaobljen
+zaodjen
 zaosta
 zapad
 zapad
@@ -28736,6 +29096,7 @@ zdenk
 zdjelic
 zdrav
 zdrav
+zdrav
 zdravk
 zdravlj
 zdravlj
@@ -28768,7 +29129,11 @@ zelen
 zelen
 zelen
 zelen
+zelim
+zelimo
 zelin
+zelis
+zelite
 zeljast
 zeljast
 zeljast
@@ -28853,6 +29218,7 @@ zid
 zid
 zidov
 zid
+zigur
 zim
 zim
 zimbabv
@@ -29057,6 +29423,11 @@ zračn
 zrca
 zrca
 zrel
+zrel
+zrel
+zrel
+zrel
+zrel
 zrelost
 zrelost
 zrenjan
@@ -29246,6 +29617,7 @@ zvučn
 čest
 čest
 čestita
+čestiti
 čestitk
 čest
 čet
@@ -29431,10 +29803,12 @@ zvučn
 čudovišt
 čudovišt
 čuj
+čuj
 čukel
 čul
 čul
 ču
+čusm
 čut
 čuva
 čuva
@@ -29447,6 +29821,7 @@ zvučn
 čuvar
 čuva
 čuven
+čuvš
 čvor
 čvor
 čvorišt
@@ -29535,6 +29910,8 @@ zvučn
 šikar
 šiljak
 šiljast
+šiljast
+šiljast
 šim
 šimić
 šimkent
@@ -29617,6 +29994,7 @@ zvučn
 škrinj
 šlesk
 šljunk
+šni
 šok
 šokac
 šokadij
@@ -29624,6 +30002,7 @@ zvučn
 šol
 šp
 špa
+španjolc
 španjolc
 španjolc
 španjolc
@@ -29654,6 +30033,7 @@ zvučn
 športaš
 športov
 športov
+športsk
 športsk
 športsk
 športsk
@@ -29698,6 +30078,7 @@ zvučn
 štoviš
 štrajk
 štrajk
+štrcaj
 štuj
 štuj
 šubić
@@ -29709,6 +30090,7 @@ zvučn
 šum
 šum
 šum
+šumovit
 šumsk
 šumsk
 šumsk
@@ -29880,7 +30262,9 @@ zvučn
 živjet
 živk
 živković
+življa
 življenj
+živ
 živ
 živ
 živ
